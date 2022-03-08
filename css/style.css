@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ctn-pr{
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    background-color: rgb(46, 142, 187);
+}
+
+.ctn-pr_ctn-sc img{
+    width: 100%;
+}
+
+.ctn-pr_ctn-sc{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+
+.ctn-pr_ctn-sc_titu{
+    margin: 10px;
+    font-size: 30px;
+}
+
+.ctn-pr_ctn-sc_asig{
+    margin: 30px;
+}
+
+.ctn-pr_ctn-sc_asig_arch{
+    margin: 10px;
+}
+
+.ctn-pr_ctn-sc_asig_arch ul li a{
+    text-decoration: none;
+}
+
+h4{
+    color: rgb(53, 48, 48);
+    font-size: 25px;
+}
