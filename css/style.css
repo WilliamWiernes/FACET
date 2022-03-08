@@ -10,6 +10,10 @@
     background-color: rgb(46, 142, 187);
 }
 
+.ctn-pr_ctn-sc img{
+    width: 100%;
+}
+
 .ctn-pr_ctn-sc{
     margin: 10px;
     padding: 10px;
